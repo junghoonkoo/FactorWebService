@@ -1,2 +1,4 @@
 com/factos/web/HelloControllerTest.java
  com.factos.web.HelloControllerTest
+com/factos/web/dto/HelloResponseDtoTest.java
+ com.factos.web.dto.HelloResponseDtoTest

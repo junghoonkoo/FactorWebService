@@ -2,3 +2,5 @@ com/factos/web/HelloController.java
  com.factos.web.HelloController
 com/factos/Application.java
  com.factos.Application
+com/factos/web/dto/HelloResponseDto.java
+ com.factos.web.dto.HelloResponseDto

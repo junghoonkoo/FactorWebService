@@ -28,5 +28,6 @@ public class HelloResponseDtoTest {
         //assertj가 junit보다 좋은점
         //자동완성이 확실히 지원됌, 추가적인 라이브러리가 필요하지않음 == is()와 같은 CoreMatches 라이브러리
 
+
     }
 }
